@@ -90,9 +90,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
-</div>
-
-<div align="center">
   <i>Join me on my journey to learn Python Web Development!</i>
 </div>

@@ -1,19 +1,23 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=000000&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Lee;Learning+Python+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=6B7280&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Lee;Python+Web+Developer" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🌱 Aspiring Python Developer | Learning Web Development</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loowpts&label=Profile%20views&color=808080&style=flat" alt="loowpts" />
-  <img src="https://img.shields.io/github/followers/loowpts?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=loowpts&label=Profile%20views&color=9CA3AF&style=flat" alt="loowpts" />
 </p>
 
-- 🌱 Self-learning web development from scratch  
-- 💻 Mastering Python and modern web frameworks  
-- 📚 Actively learning and practicing web application development  
-- 🚀 Working on pet projects to gain experience  
-- 🔍 Studying best practices and development patterns  
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=loowpts&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=6B7280&text_color=6B7280&icon_color=93C5FD"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loowpts&layout=compact&langs_count=6&theme=vue&hide_border=true&bg_color=00000000&title_color=6B7280&text_color=6B7280"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loowpts&theme=vue&hide_border=true&background=00000000&ring=93C5FD&fire=93C5FD&currStreakLabel=6B7280&sideLabels=6B7280&currStreakNum=6B7280&sideNums=6B7280&dates=9CA3AF" alt="loowpts" />
+</div>
 
 ---
 
@@ -21,40 +25,15 @@
 
 <div align="center">
 
-#### Backend & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6B7280?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-6B7280?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-6B7280?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6B7280?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-6B7280?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-6B7280?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6B7280?style=flat&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-6B7280?style=flat&logo=nginx&logoColor=white)
 
-#### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-#### Frontend & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loowpts&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loowpts&layout=compact&langs_count=8&theme=default&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loowpts&theme=default&hide_border=true" alt="loowpts" />
 </div>
 
 ---
@@ -71,24 +50,6 @@
 
 ---
 
-### 📈 Activity Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loowpts&theme=github-light&hide_border=true&color=000000&line=3b82f6&point=000000" alt="Activity Graph" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=loowpts&theme=flat&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer&fontSize=0" width="100%"/>
-</div>
-
-<div align="center">
-  <i>Join me on my journey to learn Python Web Development!</i>
+  <i>Learning Python Web Development 🚀</i>
 </div>

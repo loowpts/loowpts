@@ -1,11 +1,3 @@
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=loowpts&theme=flat&no-frame=true&no-bg=true&column=4&title_color=6B7280" alt="Trophies" />
-</div>
-
----
-
 ### 🔥 Streak
 
 <div align="center">

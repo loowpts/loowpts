@@ -8,32 +8,26 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=loowpts&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=6B7280&text_color=6B7280&icon_color=93C5FD"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loowpts&layout=compact&langs_count=6&theme=vue&hide_border=true&bg_color=00000000&title_color=6B7280&text_color=6B7280"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=loowpts&theme=vue&hide_border=true&background=00000000&ring=93C5FD&fire=93C5FD&currStreakLabel=6B7280&sideLabels=6B7280&currStreakNum=6B7280&sideNums=6B7280&dates=9CA3AF" alt="loowpts" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,nginx,git,linux&theme=light&perline=8" />
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🔥 Streak
 
 <div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=loowpts&hide_border=true&background=00000000&ring=93C5FD&fire=93C5FD&currStreakLabel=6B7280&sideLabels=6B7280&currStreakNum=6B7280&sideNums=6B7280&dates=9CA3AF" alt="loowpts" />
+</div>
 
-![Python](https://img.shields.io/badge/Python-6B7280?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-6B7280?style=flat&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-6B7280?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6B7280?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-6B7280?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-6B7280?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6B7280?style=flat&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-6B7280?style=flat&logo=nginx&logoColor=white)
+---
 
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loowpts&hide_border=true&bg_color=00000000&color=6B7280&line=93C5FD&point=93C5FD&area=true&area_color=93C5FD" alt="Activity Graph" />
 </div>
 
 ---
@@ -51,5 +45,5 @@
 ---
 
 <div align="center">
-  <i>Learning Python Web Development 🚀</i>
+  <i>Building things with Python & Django 🚀</i>
 </div>

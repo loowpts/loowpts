@@ -10,9 +10,4 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/loowpts/loowpts/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 ---
-
-<div align="center">
-  <i>Building things with Python & Django 🚀</i>
-</div>

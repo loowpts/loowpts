@@ -4,24 +4,9 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,proxmox" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ansible,terraform,gitlab,git" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=grafana,prometheus,bash,python" />
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,proxmox,docker,kubernetes,ansible&perline=8" />
+
+<img src="https://skillicons.dev/icons?i=terraform,gitlab,git,grafana,prometheus,bash,python&perline=8" />
 
 <br/>
 

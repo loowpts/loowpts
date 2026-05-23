@@ -1,39 +1,6 @@
 <div align="center">
 
-**Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=linux" width="48" />&nbsp;
-<img src="https://skillicons.dev/icons?i=ubuntu" width="48" />&nbsp;
-<img src="https://img.icons8.com/color/48/astra-linux.png" width="48" title="Astra Linux" />&nbsp;
-<img src="https://img.icons8.com/color/48/red-hat.png" width="48" title="RED OS" />&nbsp;
-<img src="https://skillicons.dev/icons?i=proxmox" width="48" />
-
-**Containers & Orchestration**
-
-<img src="https://skillicons.dev/icons?i=docker" width="48" />&nbsp;
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48" />
-
-**IaC & Automation**
-
-<img src="https://skillicons.dev/icons?i=ansible" width="48" />&nbsp;
-<img src="https://skillicons.dev/icons?i=terraform" width="48" />
-
-**CI/CD**
-
-<img src="https://skillicons.dev/icons?i=gitlab" width="48" />&nbsp;
-<img src="https://skillicons.dev/icons?i=git" width="48" />
-
-**Monitoring**
-
-<img src="https://skillicons.dev/icons?i=grafana" width="48" />&nbsp;
-<img src="https://skillicons.dev/icons?i=prometheus" width="48" />&nbsp;
-<img src="https://img.icons8.com/color/48/zabbix.png" width="48" title="Zabbix" />
-
-**Scripting**
-
-<img src="https://skillicons.dev/icons?i=bash" width="48" />&nbsp;
-<img src="https://skillicons.dev/icons?i=python" width="48" />&nbsp;
-<img src="https://skillicons.dev/icons?i=yaml" width="48" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,proxmox,docker,kubernetes,ansible,terraform,gitlab,git,grafana,prometheus,bash,python" />
 
 ---
 

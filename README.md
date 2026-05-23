@@ -4,11 +4,28 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,proxmox,docker,kubernetes,ansible,terraform,gitlab,git,grafana,prometheus,bash,python&perline=8" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,proxmox" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ansible,terraform,gitlab,git" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=grafana,prometheus,bash,python" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-[![Stepik](https://img.shields.io/badge/Stepik-Profile-66cc33?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMSIgZD0iTTIgOGwxMCA2IDEwLTYtMTAtNnoiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxIiBkPSJNMiAxNGwxMCA2IDEwLTZ6Ii8+PC9zdmc+&labelColor=1a2a1a)](https://stepik.org/users/926901891/profile)
+[![Stepik](https://img.shields.io/badge/Stepik-Profile-4EAA25?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMSIgZD0iTTIgOGwxMCA2IDEwLTYtMTAtNnoiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxIiBkPSJNMiAxNGwxMCA2IDEwLTZ6Ii8+PC9zdmc+&labelColor=1a2a1a)](https://stepik.org/users/926901891/profile)
 
 <br/><br/>
 

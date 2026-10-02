@@ -1,3 +1,30 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/waybar.svg" width="100%" alt="waybar: workspaces, lofi, 18:00 log off">
+</p>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=loowpts&hide_border=true&background=00000000&ring=93C5FD&fire=93C5FD&currStreakLabel=6B7280&sideLabels=6B7280&currStreakNum=6B7280&sideNums=6B7280&dates=9CA3AF" alt="GitHub Streak" />
+<p align="center">
+  <img src="./assets/fastfetch.svg" width="100%" alt="fastfetch">
+</p>
+
+<p align="center">
+  <img src="./assets/quote.svg" width="100%" alt="Quote of the day">
+</p>
+
+<p align="center">
+  <img src="./assets/day.svg" width="100%" alt="A day: work, energy, coffee, sport">
+</p>
+
+<p align="center">
+  <img src="./assets/aquarium.svg" width="100%" alt="asciiquarium">
+</p>
+
+<details>
+<summary><code>do not open</code></summary>
+
+```console
+bbxs@linux:~$ sudo rm -rf / --no-preserve-root
+[sudo] password for bbxs:
+bbxs is not in the sudoers file. This incident will be reported.
+```
+
+</details>

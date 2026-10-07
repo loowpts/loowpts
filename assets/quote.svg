@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 172" width="860" height="172" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14">
 <defs><clipPath id="qc"><rect x="157" y="40" height="20" width="0"><animate attributeName="width" to="80" begin="0.3s" dur="0.6s" fill="freeze"/></rect></clipPath>
-<clipPath id="ql0"><rect x="36" y="78" height="26" width="0"><animate attributeName="width" to="780" begin="1.0s" dur="0.9s" fill="freeze"/></rect></clipPath>
+<clipPath id="ql0"><rect x="36" y="78" height="26" width="0"><animate attributeName="width" to="530" begin="1.0s" dur="0.9s" fill="freeze"/></rect></clipPath>
 </defs>
 <rect width="860" height="172" rx="12" fill="#0d1117"/><rect x="0.5" y="0.5" width="859" height="171" rx="12" fill="none" stroke="#30363d"/>
 <text x="40" y="54"><tspan fill="#93C5FD">bbxs@linux</tspan><tspan fill="#6B7280">:~$</tspan></text><g clip-path="url(#qc)"><text x="159" y="54" fill="#e6edf3">fortune</text></g>
-<text x="820" y="54" text-anchor="end" fill="#6B7280" font-size="12">Tue Oct 06</text>
-<g clip-path="url(#ql0)"><text x="40" y="96" fill="#e6edf3" font-size="16.5">The best time to plant a tree was 20 years ago. The second best time is now.</text></g>
-<text x="40" y="128" fill="#93C5FD" opacity="0">-- proverb<set attributeName="opacity" to="1" begin="1.9s" fill="freeze"/></text>
+<text x="820" y="54" text-anchor="end" fill="#6B7280" font-size="12">Wed Oct 07</text>
+<g clip-path="url(#ql0)"><text x="40" y="96" fill="#e6edf3" font-size="16.5">Do what you can, with what you have, where you are.</text></g>
+<text x="40" y="128" fill="#93C5FD" opacity="0">-- Theodore Roosevelt<set attributeName="opacity" to="1" begin="1.9s" fill="freeze"/></text>
 <text x="836" y="160" text-anchor="end" fill="#8b949e" font-size="13">whyitmakesense.</text></svg>
